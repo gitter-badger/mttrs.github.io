@@ -40,7 +40,7 @@ layout: default
     <ul>
       <li>
         <a href="https://github.com/mttrs/notes/blob/master/change_char_code.md" target="_blank">
-         Character code
+         File encoding
         </a>
       </li>
     </ul>
