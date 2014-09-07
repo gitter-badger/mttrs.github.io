@@ -17,12 +17,12 @@ layout: default
     <ul>
       <li>
         <a href="https://github.com/mttrs/notes/blob/master/.bash_profile" target="_blank">
-         .bash_profile
+          .bash_profile
         </a>
       </li>
       <li>
         <a href="https://github.com/mttrs/notes/blob/master/shellscript_tips.md" target="_blank">
-         shellscript tips
+          tips
         </a>
       </li>
     </ul>
