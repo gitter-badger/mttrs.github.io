@@ -13,7 +13,7 @@ layout: default
   <section>
     <h2>Development tips</h2>
 
-    <h3>Bash</h3>
+    <h3>ShellScript</h3>
     <ul>
       <li>
         <a href="https://github.com/mttrs/notes/blob/master/.bash_profile" target="_blank">
@@ -21,8 +21,8 @@ layout: default
         </a>
       </li>
       <li>
-        <a href="https://github.com/mttrs/notes/blob/master/bash_tips.md" target="_blank">
-         bash_tips
+        <a href="https://github.com/mttrs/notes/blob/master/shellscript_tips.md" target="_blank">
+         shellscript tips
         </a>
       </li>
     </ul>
