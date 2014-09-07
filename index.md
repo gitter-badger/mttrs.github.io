@@ -35,6 +35,15 @@ layout: default
         </a>
       </li>
     </ul>
+    
+    <h3>Others</h3>
+    <ul>
+      <li>
+        <a href="https://github.com/mttrs/notes/blob/master/change_char_code.md" target="_blank">
+         Character code
+        </a>
+      </li>
+    </ul>
   </section>
 
   <footer>
