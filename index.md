@@ -43,6 +43,11 @@ layout: default
          File encoding
         </a>
       </li>
+      <li>
+        <a href="http://html5up.net/" target="_blank">
+         Spiffy HTML5 site template
+        </a>
+      </li>
     </ul>
   </section>
 
