@@ -39,18 +39,23 @@ layout: default
     <h3>Others</h3>
     <ul>
       <li class="link-list">
+        <a href="https://github.com/mttrs/notes/blob/master/coffee_script.md" target="_blank">
+          coffee script
+        </a>
+      </li>
+      <li class="link-list">
         <a href="https://github.com/mttrs/notes/blob/master/change_char_code.md" target="_blank">
           File encoding
         </a>
       </li>
       <li class="link-list">
-        <a href="http://html5up.net/" target="_blank">
-          Spiffy HTML5 site template
+        <a href="https://github.com/mttrs/notes/blob/master/brew.md" target="_blank">
+          homebrew
         </a>
       </li>
       <li class="link-list">
-        <a href="https://github.com/mttrs/notes/blob/master/brew.md" target="_blank">
-          homebrew
+        <a href="http://html5up.net/" target="_blank">
+          Spiffy HTML5 site template
         </a>
       </li>
     </ul>
