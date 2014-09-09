@@ -40,12 +40,17 @@ layout: default
     <ul>
       <li class="link-list">
         <a href="https://github.com/mttrs/notes/blob/master/change_char_code.md" target="_blank">
-         File encoding
+          File encoding
         </a>
       </li>
       <li class="link-list">
         <a href="http://html5up.net/" target="_blank">
-         Spiffy HTML5 site template
+          Spiffy HTML5 site template
+        </a>
+      </li>
+      <li class="link-list">
+        <a href="https://github.com/mttrs/notes/blob/master/brew.md" target="_blank">
+          homebrew
         </a>
       </li>
     </ul>
