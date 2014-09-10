@@ -34,6 +34,11 @@ layout: default
          .gitconfig
         </a>
       </li>
+      <li class="link-list">
+        <a href="https://github.com/mttrs/notes/blob/master/git_commands.md" target="_blank">
+         commands
+        </a>
+      </li>
     </ul>
 
     <h3>Others</h3>
