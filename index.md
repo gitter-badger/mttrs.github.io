@@ -49,6 +49,11 @@ layout: default
         </a>
       </li>
       <li class="link-list">
+        <a href="https://github.com/mttrs/notes/blob/master/ftp_tips.md" target="_blank">
+          ftp
+        </a>
+      </li>
+      <li class="link-list">
         <a href="https://github.com/mttrs/notes/blob/master/brew.md" target="_blank">
           homebrew
         </a>
