@@ -72,7 +72,7 @@ layout: default
   </section>
 
   <footer>
-    &copy; {{ site.time | date: "%Y" }} <a href="https://github.com/mttrs">@mttrs</a>
+    &copy; {{ site.time | date: "%Y" }} <a href="https://github.com/mttrs" target="_blank">@mttrs</a>
   </footer>
 
 </div>
