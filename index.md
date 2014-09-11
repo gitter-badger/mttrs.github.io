@@ -41,6 +41,20 @@ layout: default
       </li>
     </ul>
 
+    <h3>MacOSX</h3>
+    <ul>
+      <li class="link-list">
+        <a href="https://github.com/mttrs/notes/blob/master/brew.md" target="_blank">
+          homebrew
+        </a>
+      </li>
+      <li class="link-list">
+        <a href="https://github.com/mttrs/notes/blob/master/launchAgent.md" target="_blank">
+          launch agent
+        </a>
+      </li>
+    </ul>
+
     <h3>Others</h3>
     <ul>
       <li class="link-list">
@@ -56,11 +70,6 @@ layout: default
       <li class="link-list">
         <a href="https://github.com/mttrs/notes/blob/master/ftp_tips.md" target="_blank">
           ftp
-        </a>
-      </li>
-      <li class="link-list">
-        <a href="https://github.com/mttrs/notes/blob/master/brew.md" target="_blank">
-          homebrew
         </a>
       </li>
       <li class="link-list">
