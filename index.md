@@ -77,6 +77,11 @@ layout: default
           Spiffy HTML5 site template
         </a>
       </li>
+      <li class="link-list">
+        <a href="https://github.com/mttrs/notes/blob/master/sublimetext.md" target="_blank">
+          Sublimetext
+        </a>
+      </li>
     </ul>
   </section>
 
