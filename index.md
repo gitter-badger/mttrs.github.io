@@ -53,8 +53,8 @@ layout: default
     <h3><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference" target="_blank">JavaScript</a></h3>
     <ul>
       <li class="link-list">
-        <a href="#" target="_blank">
-        
+        <a href="https://github.com/mttrs/notes/blob/master/coffee_script.md" target="_blank">
+          coffee script
         </a>
       </li>
     </ul>
@@ -83,11 +83,6 @@ layout: default
 
     <h3>Others</h3>
     <ul>
-      <li class="link-list">
-        <a href="https://github.com/mttrs/notes/blob/master/coffee_script.md" target="_blank">
-          coffee script
-        </a>
-      </li>
       <li class="link-list">
         <a href="https://github.com/mttrs/notes/blob/master/change_char_code.md" target="_blank">
           File encoding
