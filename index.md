@@ -63,6 +63,15 @@ layout: default
         </a>
       </li>
     </ul>
+    
+    <h3><a href="http://golang.org/" target="_blank">ruby</a></h3>
+    <ul>
+      <li class="link-list">
+        <a href="http://www.ruby-doc.org/core-2.1.2/" target="_blank">
+        ruby doc
+        </a>
+      </li>
+    </ul>
 
     <h3>Others</h3>
     <ul>
