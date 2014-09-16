@@ -50,6 +50,15 @@ layout: default
       </li>
     </ul>
 
+    <h3><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference" target="_blank">JavaScript</a></h3>
+    <ul>
+      <li class="link-list">
+        <a href="#" target="_blank">
+        
+        </a>
+      </li>
+    </ul>
+
     <h3>MacOSX</h3>
     <ul>
       <li class="link-list">
@@ -64,11 +73,10 @@ layout: default
       </li>
     </ul>
     
-    <h3><a href="http://golang.org/" target="_blank">ruby</a></h3>
+    <h3><a href="http://www.ruby-doc.org/core-2.1.2/" target="_blank">ruby</a></h3>
     <ul>
       <li class="link-list">
-        <a href="http://www.ruby-doc.org/core-2.1.2/" target="_blank">
-        ruby doc
+        <a href="#" target="_blank">
         </a>
       </li>
     </ul>
