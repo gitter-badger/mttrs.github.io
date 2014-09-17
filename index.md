@@ -84,6 +84,11 @@ layout: default
     <h3>Others</h3>
     <ul>
       <li class="link-list">
+        <a href="#" target="_blank">
+          Emacs
+        </a>
+      </li>
+      <li class="link-list">
         <a href="https://github.com/mttrs/notes/blob/master/change_char_code.md" target="_blank">
           File encoding
         </a>
@@ -101,6 +106,11 @@ layout: default
       <li class="link-list">
         <a href="https://github.com/mttrs/notes/blob/master/sublimetext.md" target="_blank">
           Sublimetext
+        </a>
+      </li>
+      <li class="link-list">
+        <a href="#" target="_blank">
+          Vim
         </a>
       </li>
     </ul>
